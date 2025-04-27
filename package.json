@@ -37,5 +37,8 @@
   "bugs": {
     "url": "https://github.com/codeindieru/phaser-js-vite-starter/issues"
   },
-  "homepage": "https://github.com/codeindieru/phaser-js-vite-starter#readme"
+  "homepage": "https://github.com/codeindieru/phaser-js-vite-starter#readme",
+  "devDependencies": {
+    "vite": "^6.3.3"
+  }
 }
