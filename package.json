@@ -4,6 +4,8 @@
   "description": "A modern, optimized, and developer-friendly starter kit for creating HTML5 games using Phaser 3, TypeScript, and Vite. This template provides a solid foundation with hot-reloading, type safety, and efficient bundling for a smooth development experience.",
   "main": "index.ts",
   "scripts": {
+    "dev": "vite --host",
+    "build": "tsc && vite build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -39,6 +41,7 @@
   },
   "homepage": "https://github.com/codeindieru/phaser-js-vite-starter#readme",
   "devDependencies": {
+    "phaser": "^3.88.2",
     "typescript": "^5.8.3",
     "vite": "^6.3.3"
   }
