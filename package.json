@@ -1,0 +1,41 @@
+{
+  "name": "phaser-js-vite-starter",
+  "version": "1.0.0",
+  "description": "A modern, optimized, and developer-friendly starter kit for creating HTML5 games using Phaser 3, TypeScript, and Vite. This template provides a solid foundation with hot-reloading, type safety, and efficient bundling for a smooth development experience.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeindieru/phaser-js-vite-starter.git"
+  },
+  "keywords": [
+    "phaser",
+    "phaser3",
+    "phaser-js",
+    "typescript",
+    "vite",
+    "game-development",
+    "html5-games",
+    "game-framework",
+    "web-games",
+    "2d-games",
+    "game-template",
+    "starter-template",
+    "game-engine",
+    "frontend",
+    "webdev",
+    "javascript",
+    "gamedev",
+    "indie-games",
+    "vite-template",
+    "ts"
+  ],
+  "author": "codeindieru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeindieru/phaser-js-vite-starter/issues"
+  },
+  "homepage": "https://github.com/codeindieru/phaser-js-vite-starter#readme"
+}
