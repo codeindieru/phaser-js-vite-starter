@@ -12,7 +12,7 @@ A modern, optimized, and developer-friendly starter kit for creating HTML5 games
 ## Prerequisites
 
 - Node.js (v14 or higher)
-- npm or yarn
+- npm
 
 ## Installation
 
@@ -23,8 +23,6 @@ cd phaser-js-vite-starter
 
 # Install dependencies
 npm install
-# or
-yarn install
 ```
 
 ## Development
@@ -33,8 +31,6 @@ Start the development server with hot-reload:
 
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
 Your game will be available at `http://localhost:5173` (or another port if 5173 is in use).
@@ -45,8 +41,6 @@ Build the project for production:
 
 ```bash
 npm run build
-# or
-yarn build
 ```
 
 The built files will be in the `dist` directory and can be deployed to any static hosting service.
@@ -57,8 +51,6 @@ To preview the production build locally:
 
 ```bash
 npm run preview
-# or
-yarn preview
 ```
 
 ## Project Structure
